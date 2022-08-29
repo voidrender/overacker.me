@@ -14,12 +14,12 @@ export default siteConfig({
   author: 'Isaac Overacker',
 
   // open graph metadata (optional)
-  description: 'Isaac Overacker\'s Blog',
+  description: "Isaac Overacker's Blog",
 
   // social usernames (optional)
   twitter: 'ioveracker',
   github: 'ioveracker',
-  linkedin: 'ioveracker',
+  linkedin: 'isaacoveracker',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
