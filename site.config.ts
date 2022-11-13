@@ -20,6 +20,7 @@ export default siteConfig({
   twitter: 'ioveracker',
   github: 'ioveracker',
   linkedin: 'isaacoveracker',
+  mastodon: 'https://hachyderm.io/@voidrender',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
