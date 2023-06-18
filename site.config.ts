@@ -17,12 +17,11 @@ export default siteConfig({
   description: "Isaac Overacker's Blog",
 
   // social usernames (optional)
-  twitter: 'ioveracker',
   github: 'ioveracker',
   linkedin: 'isaacoveracker',
   mastodon: 'https://hachyderm.io/@voidrender',
   // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: '@alchemyrpg', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
