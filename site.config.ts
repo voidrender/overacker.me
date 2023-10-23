@@ -17,7 +17,7 @@ export default siteConfig({
   description: "Isaac Overacker's Blog",
 
   // social usernames (optional)
-  github: 'ioveracker',
+  github: 'voidrender',
   linkedin: 'isaacoveracker',
   mastodon: 'https://hachyderm.io/@voidrender',
   // newsletter: '#', // optional newsletter URL
